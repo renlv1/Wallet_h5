@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 54 54">
+  <g id="提现订单" transform="translate(-9 -302)">
+    <rect id="矩形_21" data-name="矩形 21" width="54" height="54" rx="4" transform="translate(9 302)" fill="none"/>
+    <g id="组_27" data-name="组 27" transform="translate(-122.318 293.335)">
+      <path id="路径_57" data-name="路径 57" d="M154.578,23.389" fill="none" stroke="#48b0ff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="路径_58" data-name="路径 58" d="M154.578,23.389V21.137H173.5v28.7H156.444" fill="none" stroke="#48b0ff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="直线_19" data-name="直线 19" x2="12.434" transform="translate(161.061 25.11)" fill="none" stroke="#48b0ff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="矩形_25" data-name="矩形 25" d="M3.164,0h9.983a3.164,3.164,0,0,1,3.164,3.164V11.68a.594.594,0,0,1-.594.594H.594A.594.594,0,0,1,0,11.68V3.164A3.164,3.164,0,0,1,3.164,0Z" transform="translate(143.318 25.11)" fill="none" stroke="#48b0ff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="路径_59" data-name="路径 59" d="M155.029,42.006v7.828h-6.992V42.006" fill="none" stroke="#48b0ff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="路径_60" data-name="路径 60" d="M155.029,42.006" fill="none" stroke="#48b0ff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="路径_61" data-name="路径 61" d="M148.037,42.006" fill="none" stroke="#48b0ff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="路径_62" data-name="路径 62" d="M145.27,49.083V41.61a1.964,1.964,0,0,1,1.964-1.964h2.819V37.384" fill="none" stroke="#48b0ff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="路径_63" data-name="路径 63" d="M166.1,39.764H153.034a.257.257,0,0,1-.257-.257V37.416" fill="none" stroke="#48b0ff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="直线_20" data-name="直线 20" y2="4.29" transform="translate(151.318 20.665)" fill="none" stroke="#48b0ff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="路径_64" data-name="路径 64" d="M164.1,41.678a2.381,2.381,0,1,0-.138-3.647" fill="none" stroke="#48b0ff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="路径_65" data-name="路径 65" d="M162.292,43.15a4.7,4.7,0,1,0,.089-6.73" fill="none" stroke="#48b0ff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <circle id="椭圆_7" data-name="椭圆 7" cx="2.067" cy="2.067" r="2.067" transform="translate(146.067 29.18)" fill="none" stroke="#48b0ff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <circle id="椭圆_8" data-name="椭圆 8" cx="2.067" cy="2.067" r="2.067" transform="translate(152.777 29.18)" fill="none" stroke="#48b0ff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <rect id="矩形_26" data-name="矩形 26" width="0.917" height="0.917" transform="translate(170.696 22.649)" fill="#48b0ff"/>
+      <rect id="矩形_27" data-name="矩形 27" width="0.917" height="0.917" transform="translate(168.621 22.649)" fill="#48b0ff"/>
+    </g>
+  </g>
+</svg>
